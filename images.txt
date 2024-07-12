@@ -4,3 +4,4 @@ httpd:latest
 nginx:latest
 busybox:1.28
 busybox:latest
+cadvisor:v0.47.0
