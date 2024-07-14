@@ -1,1 +1,3 @@
-grafana/promtail:3.0.0
+grafana/promtail:latest
+grafana/loki:latest
+grafana/grafana:latest
